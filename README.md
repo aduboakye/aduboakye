@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programing a software
 - 🌱 I’m currently learning Java,C++,C# and python
 - 💞️ I’m looking to collaborate on Desktop Application
-- 📫 How to reach me 
+- 📫 How to reach me email aduboakyeyiadomowsu@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact:  Code to Solve Problems
 
